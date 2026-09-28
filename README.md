@@ -10,7 +10,6 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Teachers
 
-* [Sam Serrien](./people/sam_serrien.md)
 - [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
