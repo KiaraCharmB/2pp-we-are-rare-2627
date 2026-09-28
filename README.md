@@ -11,7 +11,12 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Teachers
 
 * [Sam Serrien](./people/sam_serrien.md)
+- [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
 
+<<<<<<< Updated upstream
 * [Matteo Wouters](./people/matteo_wouters.md)
+=======
+- [Kiara Ballesteros](./people/kiara_ballesteros.md)
+>>>>>>> Stashed changes
